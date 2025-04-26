@@ -1,0 +1,660 @@
+{
+    "id": 532648726,
+    "urn": "ACoAAB-_kxYBSP_zQj8H6xFOYL6Ujj6bL8PlIyE",
+    "username": "wallisson-marcelino-95a47112a",
+    "firstName": "Wallisson",
+    "lastName": "Marcelino",
+    "isCreator": true,
+    "isPremium": false,
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQHQuZyWQXBpIQ/profile-displayphoto-shrink_400_400/B4DZY.kDA_HAAg-/0/1744806359617?e=1750896000&v=beta&t=MYQJw7HclYs3B-HfZ7U1H32BwB3FxKO31m7yMzUmFt8",
+    "profilePictures": [
+        {
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQHQuZyWQXBpIQ/profile-displayphoto-shrink_100_100/B4DZY.kDA_HAAU-/0/1744806359588?e=1750896000&v=beta&t=IsTz1stzPt7d8LJsgjMKdUTtkQ0J50mZ7MBzJxkUeGw",
+            "width": 100,
+            "height": 100
+        },
+        {
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQHQuZyWQXBpIQ/profile-displayphoto-shrink_800_800/B4DZY.kDA_HAAc-/0/1744806359588?e=1750896000&v=beta&t=zq1vFPCru8qHfRN9KxWact31uUyseFgwGDUxCPsX3c8",
+            "width": 731,
+            "height": 731
+        },
+        {
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQHQuZyWQXBpIQ/profile-displayphoto-shrink_200_200/B4DZY.kDA_HAAY-/0/1744806359588?e=1750896000&v=beta&t=Y5V4vQG-2xM-Yf64rQzr2DmiIkmeTRxAAAWrYT5RWEk",
+            "width": 200,
+            "height": 200
+        },
+        {
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQHQuZyWQXBpIQ/profile-displayphoto-shrink_400_400/B4DZY.kDA_HAAg-/0/1744806359617?e=1750896000&v=beta&t=MYQJw7HclYs3B-HfZ7U1H32BwB3FxKO31m7yMzUmFt8",
+            "width": 400,
+            "height": 400
+        }
+    ],
+    "backgroundImage": [
+        {
+            "width": 848,
+            "height": 212,
+            "url": "https://media.licdn.com/dms/image/v2/D4D16AQH_PtjI6LJKzQ/profile-displaybackgroundimage-shrink_350_1400/B4DZWzvR.gHIAc-/0/1742477272072?e=1750896000&v=beta&t=8KBwnzR8Q_e7Cq4yuACDJN_uxKl_OK3QsWbTQZaWIwA"
+        },
+        {
+            "width": 800,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D4D16AQH_PtjI6LJKzQ/profile-displaybackgroundimage-shrink_200_800/B4DZWzvR.gHIAY-/0/1742477272072?e=1750896000&v=beta&t=DHH5oSptbj-3fu76j-_6Oxaqf-rnHxyN0UdNiejyMs4"
+        }
+    ],
+    "summary": "Na LINK Tecnologia, minha atua\u00e7\u00e3o como Analista de TI envolve garantir a estabilidade e efici\u00eancia dos servi\u00e7os de TI, com foco na administra\u00e7\u00e3o de redes e sistemas. Nossa equipe trabalha em conjunto para implementar solu\u00e7\u00f5es inovadoras, sempre com o objetivo de melhorar o desempenho e a satisfa\u00e7\u00e3o dos nossos clientes.\n\nEstou atualmente cursando Engenharia de Software no Centro Universit\u00e1rio UniMetrocamp e tenho uma especializa\u00e7\u00e3o em Active Directory pelo Udemy. Minha trajet\u00f3ria \u00e9 pautada por uma paix\u00e3o constante pelos desafios tecnol\u00f3gicos e por um compromisso inabal\u00e1vel com a excel\u00eancia no atendimento e na seguran\u00e7a dos dados.",
+    "headline": "Full Stack Developer | Engenharia de Software  | Node.js | Javascript | MongoDB",
+    "geo": {
+        "country": "Brazil",
+        "city": "Hortol\u00e2ndia, S\u00e3o Paulo",
+        "full": "Hortol\u00e2ndia, S\u00e3o Paulo, Brazil",
+        "countryCode": "br"
+    },
+    "educations": [
+        {
+            "start": {
+                "year": 2025,
+                "month": 1,
+                "day": 0
+            },
+            "end": {
+                "year": 2029,
+                "month": 1,
+                "day": 0
+            },
+            "fieldOfStudy": "Engenharia de Software",
+            "degree": "Bacharelado em Engenharia",
+            "grade": "",
+            "schoolName": "Centro Universit\u00e1rio UniMetrocamp",
+            "description": "",
+            "activities": "",
+            "url": "https://www.linkedin.com/school/unimetrocampwyden/",
+            "schoolId": "54365131",
+            "logo": [
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C4D0BAQHS3EU8t6Yenw/company-logo_200_200/company-logo_200_200/0/1633358928879/unimetrocamp_logo?e=1750896000&v=beta&t=sOHvcc_zWRCpr0mJtgnJsGwL0fBRTSFnlir6yTpw5NA",
+                    "width": 200,
+                    "height": 200
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C4D0BAQHS3EU8t6Yenw/company-logo_100_100/company-logo_100_100/0/1633358928879/unimetrocamp_logo?e=1750896000&v=beta&t=FSpThmsGcyinUVirv-xDyLEGswoNVvw-qyY22vjuMjg",
+                    "width": 100,
+                    "height": 100
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/C4D0BAQHS3EU8t6Yenw/company-logo_400_400/company-logo_400_400/0/1633358928879/unimetrocamp_logo?e=1750896000&v=beta&t=pZww39xxZOSM3hst-vd4kFMq3xm1HV3WB_9s-SKnNHw",
+                    "width": 400,
+                    "height": 400
+                }
+            ]
+        },
+        {
+            "start": {
+                "year": 2023,
+                "month": 9,
+                "day": 0
+            },
+            "end": {
+                "year": 2025,
+                "month": 3,
+                "day": 0
+            },
+            "fieldOfStudy": "Tecnologia em Tecnologia da Informa\u00e7\u00e3o/Sistemas da Informa\u00e7\u00e3o",
+            "degree": "Curso T\u00e9cnico Integrado",
+            "grade": "",
+            "schoolName": "Senac S\u00e3o Paulo",
+            "description": "",
+            "activities": "manuten\u00e7\u00e3o em hardwares, instala\u00e7\u00e3o de softwares, redes de computadores e logica de programa\u00e7\u00e3o",
+            "url": "https://www.linkedin.com/school/senacsaopaulo/",
+            "schoolId": "165919",
+            "logo": [
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D0BAQF9XPvhlkoORA/company-logo_200_200/company-logo_200_200/0/1735823078140/senacsaopaulo_logo?e=1750896000&v=beta&t=6weJ2z4PJeW2I15FAQEmcKy_aHjDVIHr1ymu1YbZt58",
+                    "width": 200,
+                    "height": 200
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D0BAQF9XPvhlkoORA/company-logo_100_100/company-logo_100_100/0/1735823078140/senacsaopaulo_logo?e=1750896000&v=beta&t=PqUQePP9WxKCNjNxeL7GqFJNcEUzYgwSj7hi4M3r2HU",
+                    "width": 100,
+                    "height": 100
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D0BAQF9XPvhlkoORA/company-logo_400_400/company-logo_400_400/0/1735823078140/senacsaopaulo_logo?e=1750896000&v=beta&t=szjUwpR3Dz8m5jzCDaUuxtqpYNmgNinCMwEHpLJy4v8",
+                    "width": 400,
+                    "height": 400
+                }
+            ]
+        }
+    ],
+    "position": [
+        {
+            "companyId": 2346910,
+            "companyName": "LINK  Tecnologia em Estacionamentos",
+            "companyUsername": "link-tecnologia-em-estacionamento",
+            "companyURL": "https://www.linkedin.com/company/link-tecnologia-em-estacionamento/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQH90iQKDIuLGg/company-logo_400_400/company-logo_400_400/0/1650305318277/link_tecnologia_em_estacionamento_logo?e=1750896000&v=beta&t=79v7IPyP0irB7HNv0jZYgHM5oYMl9EmHbz4holDydtM",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "51 - 200",
+            "title": "Analista de TI",
+            "multiLocaleTitle": {
+                "pt_BR": "Analista de TI"
+            },
+            "multiLocaleCompanyName": {
+                "pt_BR": "LINK  Tecnologia em Estacionamentos"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2025,
+                "month": 2,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 80631847,
+            "companyName": "LINCHE TECNOLOGIA",
+            "companyUsername": "linche",
+            "companyURL": "https://www.linkedin.com/company/linche/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQGQSgS_RmEv8g/company-logo_400_400/company-logo_400_400/0/1664543602506/linche_logo?e=1750896000&v=beta&t=tD3w-qu92D7f4yOAEiliSJgTU3OAZh9_RQG0Nz2AGyI",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "2 - 10",
+            "title": "Analista de suporte t\u00e9cnico",
+            "multiLocaleTitle": {
+                "pt_BR": "Analista de suporte t\u00e9cnico"
+            },
+            "multiLocaleCompanyName": {
+                "pt_BR": "LINCHE TECNOLOGIA"
+            },
+            "location": "Campinas, S\u00e3o Paulo, Brasil",
+            "description": "",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2023,
+                "month": 12,
+                "day": 0
+            },
+            "end": {
+                "year": 2025,
+                "month": 2,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 3669499,
+            "companyName": "INCHIP COM\u00c9RCIO E SERVI\u00c7OS DE INFORM\u00c1TICA LTDA",
+            "companyUsername": "inchip-com\u00e9rcio-e-servi\u00e7os-de-inform\u00e1tica-ltda",
+            "companyURL": "https://www.linkedin.com/company/inchip-com%C3%A9rcio-e-servi%C3%A7os-de-inform%C3%A1tica-ltda/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFZy__55ifoIg/company-logo_400_400/company-logo_400_400/0/1631337635447?e=1750896000&v=beta&t=kfR8s5e5hC_N7vYIUgkUaH77UsTG5XVGujJJiQXCAN4",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "11 - 50",
+            "title": "T\u00e9cnico de suporte de inform\u00e1tica",
+            "multiLocaleTitle": {
+                "pt_BR": "T\u00e9cnico de suporte de inform\u00e1tica"
+            },
+            "multiLocaleCompanyName": {
+                "pt_BR": "INCHIP COM\u00c9RCIO E SERVI\u00c7OS DE INFORM\u00c1TICA LTDA"
+            },
+            "location": "Campinas, S\u00e3o Paulo, Brasil",
+            "description": "T\u00e9cnico de inform\u00e1tica",
+            "employmentType": "",
+            "start": {
+                "year": 2023,
+                "month": 3,
+                "day": 0
+            },
+            "end": {
+                "year": 2023,
+                "month": 12,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 3207645,
+            "companyName": "Ex\u00e9rcito Brasileiro",
+            "companyUsername": "exercito",
+            "companyURL": "https://www.linkedin.com/company/exercito/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQExH1wSx3J7Ag/company-logo_400_400/company-logo_400_400/0/1630567269630/exercitobrasileiro_logo?e=1750896000&v=beta&t=aDce4Zw6Y3LWvzfO_01gr2keG1AQEq5l1tZlnF45VnQ",
+            "companyIndustry": "Military",
+            "companyStaffCountRange": "10001+",
+            "title": "Analista de TI",
+            "multiLocaleTitle": {
+                "pt_BR": "Analista de TI"
+            },
+            "multiLocaleCompanyName": {
+                "pt_BR": "Ex\u00e9rcito Brasileiro"
+            },
+            "location": "Campinas, S\u00e3o Paulo, Brasil",
+            "description": "Cabo do Exercito Brasileiro",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2016,
+                "month": 3,
+                "day": 0
+            },
+            "end": {
+                "year": 2023,
+                "month": 2,
+                "day": 0
+            }
+        }
+    ],
+    "fullPositions": [
+        {
+            "companyId": 2346910,
+            "companyName": "LINK  Tecnologia em Estacionamentos",
+            "companyUsername": "link-tecnologia-em-estacionamento",
+            "companyURL": "https://www.linkedin.com/company/link-tecnologia-em-estacionamento/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQH90iQKDIuLGg/company-logo_400_400/company-logo_400_400/0/1650305318277/link_tecnologia_em_estacionamento_logo?e=1750896000&v=beta&t=79v7IPyP0irB7HNv0jZYgHM5oYMl9EmHbz4holDydtM",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "51 - 200",
+            "title": "Analista de TI",
+            "multiLocaleTitle": {
+                "pt_BR": "Analista de TI"
+            },
+            "multiLocaleCompanyName": {
+                "pt_BR": "LINK  Tecnologia em Estacionamentos"
+            },
+            "location": "",
+            "description": "",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2025,
+                "month": 2,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 80631847,
+            "companyName": "LINCHE TECNOLOGIA",
+            "companyUsername": "linche",
+            "companyURL": "https://www.linkedin.com/company/linche/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQGQSgS_RmEv8g/company-logo_400_400/company-logo_400_400/0/1664543602506/linche_logo?e=1750896000&v=beta&t=tD3w-qu92D7f4yOAEiliSJgTU3OAZh9_RQG0Nz2AGyI",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "2 - 10",
+            "title": "Analista de suporte t\u00e9cnico",
+            "multiLocaleTitle": {
+                "pt_BR": "Analista de suporte t\u00e9cnico"
+            },
+            "multiLocaleCompanyName": {
+                "pt_BR": "LINCHE TECNOLOGIA"
+            },
+            "location": "Campinas, S\u00e3o Paulo, Brasil",
+            "description": "",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2023,
+                "month": 12,
+                "day": 0
+            },
+            "end": {
+                "year": 2025,
+                "month": 2,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 3669499,
+            "companyName": "INCHIP COM\u00c9RCIO E SERVI\u00c7OS DE INFORM\u00c1TICA LTDA",
+            "companyUsername": "inchip-com\u00e9rcio-e-servi\u00e7os-de-inform\u00e1tica-ltda",
+            "companyURL": "https://www.linkedin.com/company/inchip-com%C3%A9rcio-e-servi%C3%A7os-de-inform%C3%A1tica-ltda/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFZy__55ifoIg/company-logo_400_400/company-logo_400_400/0/1631337635447?e=1750896000&v=beta&t=kfR8s5e5hC_N7vYIUgkUaH77UsTG5XVGujJJiQXCAN4",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "11 - 50",
+            "title": "T\u00e9cnico de suporte de inform\u00e1tica",
+            "multiLocaleTitle": {
+                "pt_BR": "T\u00e9cnico de suporte de inform\u00e1tica"
+            },
+            "multiLocaleCompanyName": {
+                "pt_BR": "INCHIP COM\u00c9RCIO E SERVI\u00c7OS DE INFORM\u00c1TICA LTDA"
+            },
+            "location": "Campinas, S\u00e3o Paulo, Brasil",
+            "description": "T\u00e9cnico de inform\u00e1tica",
+            "employmentType": "",
+            "start": {
+                "year": 2023,
+                "month": 3,
+                "day": 0
+            },
+            "end": {
+                "year": 2023,
+                "month": 12,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 3207645,
+            "companyName": "Ex\u00e9rcito Brasileiro",
+            "companyUsername": "exercito",
+            "companyURL": "https://www.linkedin.com/company/exercito/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQExH1wSx3J7Ag/company-logo_400_400/company-logo_400_400/0/1630567269630/exercitobrasileiro_logo?e=1750896000&v=beta&t=aDce4Zw6Y3LWvzfO_01gr2keG1AQEq5l1tZlnF45VnQ",
+            "companyIndustry": "Military",
+            "companyStaffCountRange": "10001+",
+            "title": "Analista de TI",
+            "multiLocaleTitle": {
+                "pt_BR": "Analista de TI"
+            },
+            "multiLocaleCompanyName": {
+                "pt_BR": "Ex\u00e9rcito Brasileiro"
+            },
+            "location": "Campinas, S\u00e3o Paulo, Brasil",
+            "description": "Cabo do Exercito Brasileiro",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2016,
+                "month": 3,
+                "day": 0
+            },
+            "end": {
+                "year": 2023,
+                "month": 2,
+                "day": 0
+            }
+        }
+    ],
+    "skills": [
+        {
+            "name": "Resili\u00eancia, Flexibilidade, Agilidade ",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Controle de qualidade",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Lideran\u00e7a e influ\u00eancia Social",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Repertorio Tecnol\u00f3gico ",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Empatia e Escuta Ativa",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Curiosidade e Aprendizagem Cont\u00ednua ",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Motiva\u00e7\u00e3o e autoconhecimento ",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Pensamento cr\u00edtico",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Documenta\u00e7\u00e3o de software",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Desenvolvimento web",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "CSS",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "HTML",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Desenvolvimento de software",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Suporte t\u00e9cnico",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Reda\u00e7\u00e3o",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Suporte para Help Desk",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Lideran\u00e7a de equipe",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Hardware de computador",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "DNS (Sistema de nomes de dom\u00ednio)",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Trabalho em equipe",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "An\u00e1lise de neg\u00f3cios",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Rede de \u00e1rea local (LAN)",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Protocolo de controle de transmiss\u00e3o (TCP)",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Pilha de protocolos TCP/IP",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Microsoft Windows",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Microsoft Office",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Documenta\u00e7\u00e3o t\u00e9cnica",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Redes de computadores",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Lideran\u00e7a",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Atendimento ao cliente",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Administra\u00e7\u00e3o de redes",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Acesso remoto",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Comunica\u00e7\u00e3o",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Resolu\u00e7\u00e3o de problemas",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Habilidades anal\u00edticas",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Microsoft Excel",
+            "passedSkillAssessment": false
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Endpoint Security",
+            "start": {
+                "year": 2025,
+                "month": 4,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Cisco",
+            "company": {
+                "name": "Cisco",
+                "universalName": "cisco",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHntSZQ9RWEng/company-logo_400_400/B56ZXuONwQHoAY-/0/1743458459248/cisco_logo?e=1750896000&v=beta&t=ZI3Ceg_-Khi1u-P3usmN8b_JasjLwDV__QfLJbzEqqQ",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Networking Basics",
+            "start": {
+                "year": 2025,
+                "month": 4,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Cisco",
+            "company": {
+                "name": "Cisco",
+                "universalName": "cisco",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHntSZQ9RWEng/company-logo_400_400/B56ZXuONwQHoAY-/0/1743458459248/cisco_logo?e=1750896000&v=beta&t=ZI3Ceg_-Khi1u-P3usmN8b_JasjLwDV__QfLJbzEqqQ",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Especializa\u00e7\u00e3o em Active Directory Windows Server",
+            "start": {
+                "year": 2024,
+                "month": 4,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "Udemy",
+            "company": {
+                "name": "Udemy",
+                "universalName": "udemy",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1750896000&v=beta&t=29rg-esnhJb9VhKFCxLxR8jehGRijsGkLPFuxMztNO0",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Acronis Tech fundamentals",
+            "start": {
+                "year": 2024,
+                "month": 3,
+                "day": 0
+            },
+            "end": {
+                "year": 2035,
+                "month": 2,
+                "day": 0
+            },
+            "authority": "Acronis",
+            "company": {
+                "name": "Acronis",
+                "universalName": "acronis",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHpKxsqxdEWjg/company-logo_200_200/company-logo_200_200/0/1631310854167?e=1750896000&v=beta&t=2YhPDDXk70PjmxXnLaxFCMTn8Kyj5SonzGyofOrlLls",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        }
+    ],
+    "projects": {},
+    "supportedLocales": [
+        {
+            "country": "BR",
+            "language": "pt"
+        }
+    ],
+    "multiLocaleFirstName": {
+        "pt": "Wallisson"
+    },
+    "multiLocaleLastName": {
+        "pt": "Marcelino"
+    },
+    "multiLocaleHeadline": {
+        "pt": "Full Stack Developer | Engenharia de Software  | Node.js | Javascript | MongoDB"
+    }
+}
